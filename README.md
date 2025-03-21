@@ -1,4 +1,8 @@
-# :wave: The Basics of GitHub 
+ 
+# ΦΩΤΟΓΡΑΜΜΕΤΡΙΑ Ι ΑΣΚΗΣΗ 1Η 
+# ΟΝΟΜΑΤΕΠΩΝΥΜΟ:ΚΟΚΚΑΛΑ ΠΑΡΑΣΚΕΥΗ
+# ΑΜ:20391033
+# ΕΞΑΜΗΝΟ:10 
 
 ## 🤓 Course overview and learning outcomes 
 
